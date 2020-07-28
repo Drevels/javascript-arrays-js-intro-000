@@ -1,4 +1,4 @@
-var candybar = ["snickers", "hundred grand","kitkat","skittles"];
+var candyBars = ["snickers", "hundred grand","kitkat","skittles"];
 
 function destructivelyRemoveElementFromBeginningOfArray(array){
   array.shift()
